@@ -4,10 +4,8 @@
 #### MyLog
 ##### MyLog
 정보처리산업기사 국비수업 수업내용 로깅
-|참고|
-|-|
-|해라|
-|-|
+
+|목차|
 ![목차](https://github.com/user-attachments/assets/7b0999f3-7899-4fb7-8c9e-534d46610ea5)
 |-|
 
