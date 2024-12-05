@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/Spring-E34F26?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-#006600?style=for-the-badge&logo=Spring&logoColor=black">
